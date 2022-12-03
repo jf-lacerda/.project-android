@@ -130,6 +130,8 @@ a:hover {
     color: #3920c9;
     background-color: #747f7f69;
     text-decoration: underline;
+    transition: 400ms ease-in-out 10s;
+    transition: .5s cubic-bezier(0.55, 0.025, 0.675, 0.97);
 }
 
 .list {
