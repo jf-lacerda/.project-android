@@ -68,6 +68,8 @@ h1 {
     color: rgb(0, 0, 0);
     background-color: #ffffff;
     border-radius: 2px;
+    transition: 400ms ease-in-out 10s;
+    transition: .5s cubic-bezier(0.55, 0.025, 0.675, 0.97);
 }
 
 main {
