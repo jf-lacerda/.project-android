@@ -12,7 +12,7 @@ body {
 }
 
 .home {
-    background-image: linear-gradient(to top, #00ccbe8c, #1b7f78b7); 
+    background: linear-gradient(-45deg, #050404ad, #36898fa9, #ce474e7c, #1f67c42a); 
     font-family: 'Finlandica', sans-serif;
     color: #f1f1f1;
     width: 100%;
